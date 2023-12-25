@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related production APIs"
+  message: "Welcome to EasyBank accounts related prod APIs"
   contactDetails:
     name: "Cigdem Ince - Product Owner"
     email: "{cipher}ec8cf4c5c8ff185cd27b2b518c0440877c84f878c9337f541a490e4ba6b06d9eefb0c8151d159a73f1517ee3764a2afc"
