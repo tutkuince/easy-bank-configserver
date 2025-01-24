@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account-service:
-  message: "Welcome to EasyBank account related prod APIs"
+  message: "Welcome to EasyBank account related production APIs"
   contact-details:
     name: "Çiko Ince - Product Owner"
     email: "{cipher}299ba655c37bf1648e67cc6f8f1649923b4dd93ad1b93869468d9b91baf61291"
