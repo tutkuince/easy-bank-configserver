@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loan-service:
-  message: "Welcome to EasyBank loan related prod APIs"
+  message: "Welcome to EasyBank loan related production APIs"
   contact-details:
     name: "Çiko Ince - Product Owner"
     email: "cince@mail.com"
