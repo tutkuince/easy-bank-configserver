@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-loan-service:
+loans-service:
   message: "Welcome to EasyBank loan related local APIs"
   contact-details:
     name: "Tutku Ince - Developer"
